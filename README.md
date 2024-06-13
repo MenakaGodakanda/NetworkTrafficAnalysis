@@ -1,6 +1,7 @@
 # Network Traffic Analysis
 
-This project provides a basic framework for capturing and analyzing network traffic to detect anomalies and suspicious activities. 
+This project provides a basic framework for capturing and analyzing network traffic to detect anomalies and suspicious activities.<br>
+<a href="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/blob/main/Project_Description.md">Project Description</a>
 
 ## Tools Used
 
