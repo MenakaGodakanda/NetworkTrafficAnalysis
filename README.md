@@ -3,6 +3,9 @@
 This project provides a basic framework for capturing and analyzing network traffic to detect anomalies and suspicious activities.<br>
 <a href="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/blob/main/Project_Description.md">Project Description</a>
 
+## Project Overview
+<img width="929" alt="Screenshot 2024-06-13 at 3 10 44 PM" src="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/352b22b1-3c78-4b0d-a648-31596ec17ad6">
+
 ## Tools Used
 
 - **Ubuntu**:  Or any Debian-based distribution.
