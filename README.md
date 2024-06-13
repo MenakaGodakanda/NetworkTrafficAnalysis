@@ -69,8 +69,10 @@ This generates various log files, including `conn.log`.
 - `http.log`: Details of HTTP requests and responses.
 - `dns.log`: Information about DNS queries and responses.
 
-The conn.log file, for example, might look like this:
-<image>
+The generated log files, might look like this:<br>
+
+![Screenshot 2024-06-11 135726](https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/e60fb32c-332f-4b30-a9fe-33ead104832b)<br>
+
 
 ### Analyze the Logs Using Python Script
 
@@ -83,12 +85,15 @@ python3 scripts/analyze_logs.py
 This script will read `conn.log`, identify anomalies, and save them in `analysis/anomalies.csv`.
 
 Output from script:
-<image>
+<br>
+![Screenshot 2024-06-11 175352](https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/1a572c30-1e7a-432e-955b-774a6d6f3f7d)
+<br>
 
 ## Results
 
-Check the `analysis/` directory for the results of the analysis.
-<image>
+Check the `analysis/` directory for the results of the analysis.<br><br>
+![Screenshot 2024-06-11 175756](https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/4cd08665-d21d-4409-8141-9e638aa2dbf1)
+<br>
 
 ## File Structure
 ```
@@ -276,6 +281,8 @@ Press `CTRL + X`, then `Y`, and then `ENTER`.
 ```bash
 source ~/.bashrc
 ```
+<br>![Screenshot 2024-06-11 135605 - Copy](https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/91923999-aeee-44cf-a725-c113d4a7b5a5)
+<br>
 
 ### Permission Denied for Capture File
 
@@ -317,7 +324,9 @@ You should see something like this:
 -rw-r--r-- 1 root root <size> <date> captures/network_traffic.pcap
 ```
 
-This means the file is readable by everyone.
+This means the file is readable by everyone.<br>
+![Screenshot 2024-06-11 135648 - Copy](https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/cb326949-9d3a-476e-a90f-f549c06856ea)
+<br>
 
 #### Run Zeek Again
 
@@ -421,6 +430,8 @@ After installing `pandas`, you can run your analysis script within the virtual e
 ```bash
 python scripts/analyze_logs.py
 ```
+<br>![Screenshot 2024-06-11 175407](https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/69855378-a67c-4c54-8fcd-8d22e9fab83c)
+<br>
 
 4. Deactivate the Virtual Environment
 
