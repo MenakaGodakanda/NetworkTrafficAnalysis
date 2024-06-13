@@ -4,7 +4,8 @@ This project provides a basic framework for capturing and analyzing network traf
 <a href="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/blob/main/Project_Description.md">Project Description</a>
 
 ## Project Overview
-<img width="929" alt="Screenshot 2024-06-13 at 3 10 44 PM" src="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/352b22b1-3c78-4b0d-a648-31596ec17ad6">
+<img width="929" alt="Screenshot 2024-06-13 at 3 16 57 PM" src="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis/assets/156875412/2ac93471-695f-49fd-8bad-ae9ec4d26cee">
+<br>
 
 ## Tools Used
 
