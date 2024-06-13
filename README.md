@@ -6,7 +6,7 @@ This project provides a basic framework for capturing and analyzing network traf
 
 - **Ubuntu**:  Or any Debian-based distribution.
 - **TShark**: Command-line version of Wireshark.
-- **Zeek**: For network traffic analysis.
+- **Zeek (Bro)**: For network traffic analysis.
 - **Python**: For log parsing and analysis.
 
 ## Installation
